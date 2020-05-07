@@ -1,0 +1,10 @@
+var a=3;
+var b=5;
+var sub=a-b;
+var mul=a*b;
+var divs=a/b;
+document.write("Subtraction of "+a+" and "+b+" is "+sub);
+document.write("<br>");
+document.write("multiplication of "+a+" and "+b+" is "+mul);
+document.write("<br>");
+document.write("Division of "+a+" and "+b+" is "+divs);

@@ -1,0 +1,17 @@
+var a;
+document.write("Value after variable declaration is "+a);
+document.write("<br>");
+a=5;
+document.write("Initial value: "+a);
+a++;
+document.write("<br>");
+document.write("Value after increment is: "+a);
+var b=a+7;
+document.write("<br>");
+document.write("Value after addition is: "+b);
+document.write("<br>");
+b--;
+document.write("Value after decrement is: "+b);
+document.write("<br>");
+//b/3;
+document.write("Remainder after dividing varibale by 3 is :"+b%3);

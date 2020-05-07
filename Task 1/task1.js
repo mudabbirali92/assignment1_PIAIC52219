@@ -1,0 +1,1 @@
+alert("JavaScript Alert! \n welcome to JS land \n Happy coding!");
